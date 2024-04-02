@@ -1,8 +1,12 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreammy23&hide=contribs,prs&count_private=true)](https://github.com/Dreammy23/github-readme-stats)
+
+[![Dreammy23's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreammy23&count_private=true&show_icons=true&theme=merko)](https://github.com/Dreammy23/github-readme-stats)
 
 
 <!--
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreammy23&layout=compact)](https://github.com/Dreammy23/github-readme-stats)
+
 **Dreammy23/Dreammy23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
