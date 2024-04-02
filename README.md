@@ -1,6 +1,6 @@
 
 
-[![Dreammy23's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreammy23&count_private=true&show_icons=true&theme=merko)](https://github.com/Dreammy23/github-readme-stats)
+[![Dreammy23's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreammy23&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/Dreammy23/github-readme-stats)
 
 
 <!--
