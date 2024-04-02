@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreammy23)](https://github.com/Dreammy23/github-readme-stats)
+
+
+
 <!--
 **Dreammy23/Dreammy23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
