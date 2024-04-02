@@ -1,7 +1,5 @@
-### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreammy23)](https://github.com/Dreammy23/github-readme-stats)
-
+[(https://github-readme-stats.vercel.app/api?username=Dreammy23&hide=contribs,prs&count_private=true)](https://github.com/Dreammy23/github-readme-stats)
 
 
 <!--
