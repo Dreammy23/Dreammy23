@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 -->
 
 [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/dreammy23-l7-contributor.json)](https://github.com/antvis/l7)
-[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/bigbigdreamer-adc-contributor.json)](https://github.com/ant-design/ant-design-charts)
